@@ -1,5 +1,5 @@
 # TCR-pMHC
-###A deep learning network for prediction of  TCR-pMHC binding
+### A deep learning network for prediction of  TCR-pMHC binding
 
 For exposition purposes, the entire pipeline has been laid out in a series of iPython notebooks:
 
