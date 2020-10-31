@@ -1,0 +1,5 @@
+.vscode/settings.json
+.ipynb_checkpoints/1-data-prep-checkpoint.ipynb
+.ipynb_checkpoints/2-data-split-tcr-checkpoint.ipynb
+.ipynb_checkpoints/3-tcr2vec-checkpoint.ipynb
+.ipynb_checkpoints/4-model-tcr-checkpoint.ipynb
